@@ -56,3 +56,32 @@ Trying to do the BGA was really hard, so I just used a normal package (LQFP48).
 ## Extra Info
 
 I switched to the STM32G0B1CET6 chip.
+
+---
+
+# Developer Log One
+
+## What i did
+
+### 1. Finished PCB
+
+I have full finished the pcb!!!!
+i routed everything, did all the planes and all! 
+
+**Picture:**
+<img width="1013" height="803" alt="image" src="https://github.com/user-attachments/assets/26738b2d-00df-4944-b996-b957117550d0" />
+<img width="779" height="584" alt="image" src="https://github.com/user-attachments/assets/d57029fd-68c1-4c1f-8aa8-6b43eb17b854" />
+<img width="1093" height="638" alt="image" src="https://github.com/user-attachments/assets/f5bb1945-5cb9-4e4a-8b43-d7b5c7f49909" />
+
+## What Was Hard
+
+it was alot to route :sob:
+
+## Extra info
+
+Next devLog will be the last
+
+
+## What i will do next
+
+Finish repo
