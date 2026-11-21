@@ -33,4 +33,6 @@ It's an MicroController board based on STM32G0B1NEY6TR.
 
 The firmware was made by AI because I mainly made this project for the hardware aspect.
 
+# How the schematic looks:
 
+<img width="636" height="450" alt="image" src="https://github.com/user-attachments/assets/e8b3a253-5c0f-45d0-bce1-e06eb96e32f1" />
