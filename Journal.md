@@ -1,4 +1,4 @@
-# Developer Log 1
+# Developer Log one
 
 # What I did
 
