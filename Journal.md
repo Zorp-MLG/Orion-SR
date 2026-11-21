@@ -35,7 +35,7 @@ Choosing the LDO 😭
 
 ### 1. Finished Schematic
 
-I have fully finished the schematic. I had to switch the MCU because the old one is BGA 😭. I probably won't switch the name (SR stands for "STM32G0B1NEY6TR" — it's the start/end letters of the old chip). I really like how the schematic looks!
+I have fully finished the schematic. I had to switch the MCU because the old one is BGA 😭. I probably won't switch the name (SR stands for "STM32G0B1NEY6TR", it's the start/end letters of the old chip). I really like how the schematic looks!
 
 **Picture:**
 
@@ -43,7 +43,7 @@ I have fully finished the schematic. I had to switch the MCU because the old one
 
 ### 2. Started Work on PCB
 
-I have finished the layout — I just have to do the routing and polishing!
+I have finished the layout, I just have to do the routing and polishing!
 
 **Picture:**
 
