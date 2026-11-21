@@ -13,7 +13,7 @@ orion is a fake company I made to train making products in the future. I also us
 
 # What is Orion SR?
 
-It's an MicroController board based on STM32G0B1NEY6TR.
+It's an MicroController board based on STM32G0B1CET6.
 
 <img width="1013" height="803" alt="image" src="https://github.com/user-attachments/assets/26738b2d-00df-4944-b996-b957117550d0" />
 
